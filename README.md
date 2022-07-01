@@ -1,9 +1,18 @@
 # Zuri-Task
 
-Responsive form tasks are submissions for Responsiveness and Media Queries.
+LINKS TO ZURI TASKS
 
-details.html codes contain the second task for introduction to javascript.
 
-grid.css, grid.html, index.html and index.css are submissions for the CSS Flexbox and Grid Layout task.
+CSS FLEX TASK 
+https://tamarflourish.github.io/Cssflex/
 
-promptcal.html is the submission for the second task on introduction to javascript.
+CSS GRID TASK
+
+RESPONSIVE MEDIA QUERY
+
+
+JAVASCRIPT CONSOLE CALCULATOR
+https://tamarflourish.github.io/Javascript-Console-calculator/
+
+
+JAVASCRIPT CODE TO PRINT INFO ON SCREEN
