@@ -2,21 +2,12 @@
 
 LINKS TO ZURI TASKS
 
+CSS FLEX TASK https://tamarflourish.github.io/Zuri-Task/
 
-CSS FLEX TASK 
-https://tamarflourish.github.io/Zuri-Task/
+CSS GRID TASK https://tamarflourish.github.io/Grid-design/
 
-CSS GRID TASK
-https://tamarflourish.github.io/Cssgrid/
+RESPONSIVE MEDIA QUERY https://tamarflourish.github.io/Responsive-media-query/
 
+JAVASCRIPT CONSOLE CALCULATOR https://tamarflourish.github.io/Javascipt-Console-Calculator/
 
-RESPONSIVE MEDIA QUERY
-https://tamarflourish.github.io/Responsive-Media-Query/
-
-
-JAVASCRIPT CONSOLE CALCULATOR
-https://tamarflourish.github.io/Javascript-Console-calculator/
-
-
-JAVASCRIPT CODE TO PRINT INFO ON SCREEN
-https://tamarflourish.github.io/Javascript-screen-print/
+JAVASCRIPT CODE TO PRINT INFO ON SCREEN https://tamarflourish.github.io/Javascript-print-screen/
